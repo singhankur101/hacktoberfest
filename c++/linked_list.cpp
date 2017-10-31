@@ -1,3 +1,4 @@
+//ok
 #include <iostream>
 #include <stdlib.h>
 
