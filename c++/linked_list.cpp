@@ -14,7 +14,7 @@ int main(void)
   node* HEAD = NULL;
   node* last_node = NULL;
 
-  for (int i = 0; i < 10; i++)
+  for (int i = 0; i < 10; i=i+1)
   {
     node* temp = (node*) malloc(sizeof(node));
     if (HEAD == NULL)
